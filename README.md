@@ -8,4 +8,6 @@ TUI Chess build using Textual and python-chess module that have mouse interactio
 
 <img width="879" height="424" alt="image" src="https://github.com/user-attachments/assets/62ba0d87-4d36-4d44-ae1c-2fcc7454a9e3" />
 2026 (C) EshanCreative MY Group. All rights reserved
-OPEN-SOURCE PROJECT
+
+
+(OPEN-SOURCE PROJECT)
