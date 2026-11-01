@@ -11,3 +11,9 @@ TUI Chess build using Textual and python-chess module that have mouse interactio
 
 
 (OPEN-SOURCE PROJECT)
+
+JOIN EMGFA!
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/601176210944?text=Hello%2C%20I%20want%20to%20join%20EMGFA)
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egisterrde2nd)
